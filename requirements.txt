@@ -1,0 +1,18 @@
+# --- Manipulación de datos ---
+pandas
+numpy
+pyarrow          # necesario para leer/escribir archivos .parquet
+
+# --- Estadística y optimización ---
+scipy
+
+# --- Machine learning ---
+scikit-learn     # RobustScaler, PCA, LogisticRegressionCV, DecisionTreeClassifier, KMeans, métricas
+scorecardpy      # cálculo de Information Value (IV) por feature
+
+# --- Visualización ---
+matplotlib
+seaborn
+
+# --- Grafos y redes ---
+networkx         # análisis de centralidad y comunidades
