@@ -1,7 +1,8 @@
 # Firm-fundamentals-Stock-Screener
 Quantitative screener for the NYSE/NASDAQ universe that identifies stocks with persistent alpha, anchors the predictive signal to fundamentals.
 
-[![DOI](https://doi.org/10.5281/zenodo.22759509)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22759509.svg)](https://doi.org/10.5281/zenodo.22759509)
+Martínez Valencia, J. A. (2026). Stock Screening por Segmentación Iterada Basado en Fundamentales [Graphic]. Zenodo. Curso de Análisis y Gestión Moderna de Inversiones - Maestría en Finanzas Cuantitativas, Universidad del Rosario. https://doi.org/10.5281/zenodo.22759509
 
 > Pipeline de segmentación no supervisada y clasificación penalizada para identificar acciones con Alfa de Jensen persistente.
 
